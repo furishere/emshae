@@ -1,22 +1,6 @@
-# Real-Time Collaboration App
+# size
+- sm md lg xl 2xl
 
-```bash
-
-Like Notion + Figma collaboration.
-
-Features
-Collaborative editor
-Presence indicators
-Multiplayer cursors
-Live sync
-Team workspaces
-Permissions
-Version control
-Comments
-Mentions
-Advanced Concepts
-Operational Transform / CRDT
-Conflict resolution
-Realtime sync engine
-```
+# Task
+-  keyborad component - acertaninty ui
 
